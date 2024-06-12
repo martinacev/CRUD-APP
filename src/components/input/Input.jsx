@@ -61,7 +61,7 @@ const Input = () => {
 				</div>
 			))}
 			<div onClick={handleSubmit} className={classes.submit}>
-				SUBMIT
+				Submit
 			</div>
 		</div>
 	);
