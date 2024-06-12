@@ -1,0 +1,49 @@
+.container {
+	align-items: center;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.fields {
+	display: flex;
+	align-items: center;
+	margin-top: 15px;
+}
+
+.addBtn {
+	display: flex;
+	align-items: center;
+	border-radius: 20px;
+	justify-content: center;
+	border: 1px solid rgb(102, 98, 98);
+	width: 30px;
+	height: 30px;
+	margin-left: 5px;
+	cursor: pointer;
+}
+
+.removeBtn {
+	display: flex;
+	align-items: center;
+	border-radius: 20px;
+	justify-content: center;
+	border: 1px solid rgb(102, 98, 98);
+	width: 30px;
+	height: 30px;
+	margin-left: 5px;
+	cursor: pointer;
+}
+
+.submit {
+    display: flex;
+	align-items: center;
+	border-radius: 10px;
+	border: 1px solid rgb(102, 98, 98);
+	margin-left: 5px;
+	cursor: pointer;
+    width: fit-content;
+    padding: 5px;
+    margin-top: 5px;
+
+
+}
